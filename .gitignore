@@ -1,0 +1,25 @@
+.gradle/
+.idea/
+.gradle/
+.spinnaker_json/
+.docker-build/
+*.iml
+target/
+*.jar
+*.lst
+*.ipr
+*.iws
+*.retry
+.envrc
+
+# Eclipse java
+.classpath
+.project
+.settings/
+
+# Node Npm-Debug Log File
+npm-debug.log
+/*/*/dataSources
+/*/*/.ideaDataSources
+
+out/
